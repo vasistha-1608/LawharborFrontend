@@ -1,0 +1,24 @@
+#CaseRecords-Component {
+    width: 100%;
+    margin: 0.2rem auto;
+}
+
+#CaseRecords-Component .header {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin: 0.5rem auto;
+}
+
+#CaseRecords-Component #Edit-CaseRecords {
+    width: 100%;
+    margin: 0.5rem auto;
+}
+
+#CaseRecords-Component #CaseRecords1 {
+    width: 100%;
+    margin: 0.2rem auto;
+}

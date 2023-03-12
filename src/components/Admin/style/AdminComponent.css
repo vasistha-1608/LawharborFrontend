@@ -1,0 +1,7 @@
+.component {
+    position: absolute;
+    margin: 5rem auto;
+    width: 100%;
+    text-transform: capitalize;
+
+}
